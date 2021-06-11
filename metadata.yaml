@@ -1,5 +1,5 @@
 _repo: Louise-Queen-of-Prussia_65549
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Upton, George P. (George Putnam)
@@ -9,12 +9,17 @@ contributor:
     gutenberg_agent_id: '5760'
     url: http://www.gutenberg.org/2009/agents/5760
     wikipedia: https://en.wikipedia.org/wiki/George_Putnam_Upton
+covers:
+- cover_type: archival
+  image_path: 65549-h/images/cover.jpg
 creator:
   author:
     agent_name: Merz, Heinrich
     gutenberg_agent_id: '53399'
     url: http://www.gutenberg.org/2009/agents/53399
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65549#Louise-Queen-of-Prussia
 gutenberg_issued: '2021-06-07'
 gutenberg_type: Text
 identifiers:
